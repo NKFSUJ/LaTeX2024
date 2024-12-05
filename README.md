@@ -15,7 +15,7 @@ Warsztaty: aula A-1-06
 * **15:40 - 16:00** Rejestracja :elephant:
 * **16:00 - 16:20** Wprowadzenie _Jakub Czartowski_ :japanese_goblin:
 * **16:30 - 17:30** Podstawy _Szymon Łysik_ :sloth:
-* **17:40 - 19:10** Tryb matematyczny _Dominik Piasecki_ :swan:
+* **17:40 - 19:10** Tryb matematyczny _Dominik Piasecki_ :duck:
 * **19:20 - 20:00** Tabele _Gabriel Ostrzołek_ :horse:
 * **20:10 - 20:55** Grafika _Mateusz Winiarski_ :penguin:
 
