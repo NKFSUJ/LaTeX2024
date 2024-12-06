@@ -1,0 +1,40 @@
+\documentclass{article}
+\usepackage{amsmath,amsfonts}
+\usepackage{xcolor}
+\usepackage{geometry}
+\usepackage{tikz}
+\geometry{
+paperwidth=5cm,
+paperheight=2.5cm,
+margin=2mm,
+}
+
+\definecolor{myblue}{wave}{600}
+\definecolor{orangish}{wave}{620}
+\definecolor{newblue}{RGB}{47,58,76}
+\definecolor{newgreen}{RGB}{9,136,66}
+
+\begin{document}
+\pagecolor{newblue}
+
+\begin{figure}
+    \centering
+\begin{tikzpicture}[scale=0.6, every node/.style={transform shape}]
+
+% Main LaTeX text
+\node[anchor=west] at (2.5,3.7) {\Huge {{\textcolor{white}{\LaTeX}}}};
+\node[anchor=west] at (4.65,3.7) {\LARGE {\textcolor{white}{izacja}}};
+\node[anchor=east] at (8.5,2.9) {\LARGE {\textcolor{white}{społeczeństwa}}};
+
+% Progress bar label
+\node[anchor=west] at (2.5,2) {\large {{\textcolor{newgreen}{in progress...}}}};
+
+% Progress bar
+\draw[newgreen, fill=newgreen] (2.5,1.4) rectangle (6.9,1.6); % Filled section
+\draw[fill=white, white] (6.9,1.4) rectangle (8.5,1.6); % Empty section
+\draw[thick,white] (2.5,1.4) rectangle (8.5,1.6); % Border
+
+\end{tikzpicture}
+\end{figure}
+\end{document}
+

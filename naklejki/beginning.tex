@@ -1,0 +1,22 @@
+\documentclass[12pt]{article}
+\usepackage{tikz}
+\usepackage{xcolor}
+\usepackage{geometry}
+\geometry{
+paperwidth=5cm,
+paperheight=2.5cm,
+margin=2mm,
+}
+
+\begin{document}\sloppy
+\pagecolor{violet}
+\begin{figure}
+\centering
+\begin{tikzpicture}[scale=1.2, every node/.style={transform shape}]
+    \node at (0, 0) {\color{white}in the beginning};
+    \node at (0,-.6) {\color{white}was the \LaTeX\dots};
+\end{tikzpicture}
+
+\end{figure}
+
+\end{document}
