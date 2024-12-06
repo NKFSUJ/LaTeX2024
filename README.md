@@ -16,7 +16,7 @@ Warsztaty: aula A-1-06
 * **16:00 - 16:20** Wprowadzenie _Jakub Czartowski_ :fox_face:
 * **16:30 - 17:30** Podstawy _Szymon Łysik_ :sloth:
 * **17:40 - 19:10** [Tryb matematyczny](tryb%20matematyczny) _Dominik Piasecki_ :duck:
-* **19:20 - 20:00** Tabele _Gabriel Ostrzołek_ :horse:
+* **19:20 - 20:00** [Tabele](tabele) _Gabriel Ostrzołek_ :horse:
 * **20:10 - 20:55** [Grafika](grafika) _Mateusz Winiarski_ :penguin:
 
 ### Sobota, 7 grudnia
