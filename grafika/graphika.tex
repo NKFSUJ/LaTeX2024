@@ -1,4 +1,4 @@
-\documentclass[handout]{beamer}
+\documentclass{beamer}
 % \usepackage[utf8]{inputenc}
 \usepackage{polski}
 % \usepackage[polish]{babel}
@@ -36,6 +36,7 @@ breaklines=true
 \usepackage{subcaption}
 \usepackage[rightcaption]{sidecap}
 % \usepackage{float}
+\setbeamertemplate{caption}[numbered]
 
 
 
@@ -50,7 +51,7 @@ breaklines=true
 \setbeamercolor{palette tertiary}{bg=violet!40!black,fg=white}
 \setbeamercolor{palette quaternary}{bg=violet!20!black,fg=white}
 \setbeamercolor{structure}{fg=violet!60!black}
-\setbeamertemplate{caption}{\insertcaption}
+% \setbeamertemplate{caption}{\insertcaption}
 % \setbeamertemplate{headline}{
 %   \begin{beamercolorbox}[wd=.9\paperwidth]{headline}
 %     \vspace{1.5ex}
@@ -491,6 +492,7 @@ Uwierz mi lub nie:
 
 \begin{frame}[fragile]{To jak się korzysta z \texttt{label}a?}{}
 \begin{verbatim}
+% \usepackage{hyperref}
 \begin{figure}
     \centering
     \includegraphics[width=0.5\textwidth]{memy/mem4.png}
