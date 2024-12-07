@@ -25,5 +25,16 @@ Warsztaty: aula A-1-06
 * **11:30 - 12:10** Bibliografia _Patryk Liniewicz_ :parrot:
 * **12:20 - 13:20** Prezentacje _Krzysztof Prościński_ :lady_beetle:
 * **13:20 - 14:00** πzza :pie:
-* **14:10 - 15:40** Ti*k*z (🦆) _Mateusz Winiarski_ :penguin:
-* **15:50 - 16:30** Plakaty _Dawid Zapolski_ :otter:
+* **14:10 - 15:40** [Ti*k*z (🦆)](tikz) _Mateusz Winiarski_ :penguin:
+* **15:50 - 16:30** [Plakaty](Plakaty) _Dawid Zapolski_ :otter:
+
+## Partnerzy
+
+<img src="misc/boczny-kolor.png" width=300> 
+
+Wydarzenie współfinansowane przez Radę Kół Naukowych Uniwersytetu Jagiellońskiego
+
+
+<img src="misc/KN014.png" width=300> 
+
+Wydarzenie współfinansowane przez Radę Kół Naukowych Uniwersytetu Jagiellońskiego
